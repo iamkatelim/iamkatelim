@@ -1,4 +1,4 @@
-<h1 align="center> Howdy, I'm Kate! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center"> Howdy, I'm Kate! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
                                                                                                                                      
 <p align='center'>
 <a href="https://dev.to/iamkatelim"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
