@@ -5,9 +5,10 @@
 </p>
 
 <p>Hi, I'm Kate, final year student. Currently working on sentiment analysis in three languages for my final year project.</p>
-- Hello
-- 你好
-- Apa Khabar!
+
+-  Hello
+-  你好
+-  Apa Khabar!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
