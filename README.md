@@ -11,6 +11,8 @@
 -  Apa Khabar!
 
 <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=iamkatelim&amp;show_icons=true" alt="GitHub Stats">
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
 
 
