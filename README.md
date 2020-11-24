@@ -9,7 +9,9 @@
 -  Hello
 -  你好
 -  Apa Khabar!
--  Hola!   &nbsp;&nbsp;(Opps nope, out of topic..) :hear_no_evil:
+
+
+:hear_no_evil: :hear_no_evil:
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=iamkatelim&amp;show_icons=true" alt="GitHub Stats">
