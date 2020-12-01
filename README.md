@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/lim-may-yann-4067a8102/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<p>Hi, I'm Kate, final year student. Currently working on sentiment analysis in three languages for my final year project.</p>
+<p>Hi, I'm Kate, final year student. Currently working on sentiment analysis in three languages.</p>
 
 -  Hello
 -  你好
