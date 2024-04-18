@@ -12,13 +12,14 @@
 :hear_no_evil: :hear_no_evil:
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=iamkatelim&amp;show_icons=true" alt="GitHub Stats">
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)](https://github.com/iamkatelim/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)](https://github.com/iamkatelim/github-readme-stats)<br><br>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)<br>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)<br>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
 ```
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2017%20mins-blue)
+```
+**Timeline**
+
 <!--END_SECTION:waka-->
