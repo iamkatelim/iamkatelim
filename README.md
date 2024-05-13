@@ -12,6 +12,3 @@
 :hear_no_evil: :hear_no_evil:
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)](https://github.com/iamkatelim/github-readme-stats)<br><br>
-
-<!--END_SECTION:waka-->
