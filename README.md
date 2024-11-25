@@ -13,7 +13,7 @@
 
 - 🧠 **Master’s Student in Artificial Intelligence @梨大🗻**  
 - 💻 Interested in **NLP, Co-reference Resolution, Sentiment Analysis**, and **Style Transfer**  
-- 🏅 Former DFT Engineer at **Lattice Semiconductor** and **Intel**  
+- 🧑‍🏭 Former Semiconductor DFT Engineer  
 - 🌱 Constantly learning **new languages** (both coding & human!)
 
 <br/><br/>
