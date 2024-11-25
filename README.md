@@ -7,7 +7,20 @@
 -  食咗飯未呀 ?
 -  いつもお腹が空いている...
 
+<br>
 
-:hear_no_evil: :hear_no_evil:
+## 🚀 About Me  
+
+- 🧠 **Master’s Student in Artificial Intelligence @梨大🗻**  
+- 💻 Interested in **NLP, Co-reference Resolution, Sentiment Analysis**, and **Style Transfer**  
+- 🏅 Former DFT Engineer at **Lattice Semiconductor** and **Intel**  
+- 🌱 Constantly learning **new languages** (both coding & human!)
+
+<br/><br/>
+
+- ## 📈 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkatelim&layout=compact)  
+
 
 <br><br>
